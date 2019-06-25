@@ -1,6 +1,6 @@
 {
   "name": "@nebulario/tracker-stateful-web",
-  "version": "1.70.2-common-ui-pkg-dev",
+  "version": "1.70.5-common-ui-pkg-prod",
   "description": "Base for nodes",
   "main": "./dist/index.js",
   "repository": "github.com:vicjicaman/tracker-stateful-web.git",
@@ -54,7 +54,7 @@
     "lodash": "^4.17.11",
     "recompose": "^0.30.0",
     "redux-actions": "^2.6.4",
-    "@nebulario/tracker-app-events": "1.70.2-common-ui-pkg-dev"
+    "@nebulario/tracker-app-events": "1.70.5-common-ui-pkg-prod"
   },
   "peerDependencies": {
     "apollo-cache-inmemory": "^1.1.12",
