@@ -9,10 +9,10 @@
   dependencies:
     regenerator-runtime "^0.13.2"
 
-"@nebulario/tracker-app-events@1.70.5-common-ui-pkg-prod":
-  version "1.70.5-common-ui-pkg-prod"
-  resolved "https://registry.yarnpkg.com/@nebulario/tracker-app-events/-/tracker-app-events-1.70.5-common-ui-pkg-prod.tgz#468f662160a55e28da14ba0d84666c6f35a8e826"
-  integrity sha512-tMGX6qFvWCVXix1GcyuUVEf6KufmgR6xGlOXHAv3SH6MDZl3EDIfU+f1UAGuoI3/Cv+6FNqsyDyugENLDL8TAg==
+"@nebulario/tracker-app-events@1.70.0-master":
+  version "1.70.0-master"
+  resolved "https://registry.yarnpkg.com/@nebulario/tracker-app-events/-/tracker-app-events-1.70.0-master.tgz#e70f487a93619479afb62d9226312e2cc9ea601f"
+  integrity sha512-0iXjeE0HcmN02f38TMH5TSCAouCULdlTH6DJ+Co3kuI0NZNawuVPmjhHiqiUn2vKkKOb69cycqWlDQ6dKq3N2A==
   dependencies:
     performance-now "^2.1.0"
 
