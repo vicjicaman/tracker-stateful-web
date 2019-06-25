@@ -6,7 +6,7 @@ import {ConnectedRouter} from 'react-router-redux';
 import {ApolloProvider} from 'react-apollo';
 import {all, fork} from 'redux-saga/effects';
 
-import {EventListener} from './events/EventListener'
+import {EventListener} from '@nebulario/tracker-app-events'
 
 import configureStore from './store.jsx';
 import configureGraphClient from './graph.jsx';
