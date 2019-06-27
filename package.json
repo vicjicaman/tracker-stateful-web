@@ -1,6 +1,6 @@
 {
   "name": "@nebulario/tracker-stateful-web",
-  "version": "1.70.1-master",
+  "version": "1.70.2-master",
   "description": "Base for nodes",
   "main": "./dist/index.js",
   "repository": "github.com:vicjicaman/tracker-stateful-web.git",
