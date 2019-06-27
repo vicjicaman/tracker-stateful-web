@@ -54,7 +54,7 @@
     "lodash": "^4.17.11",
     "recompose": "^0.30.0",
     "redux-actions": "^2.6.4",
-    "@nebulario/tracker-app-events": "1.70.0-master"
+    "@nebulario/tracker-app-events": "1.70.2-master"
   },
   "peerDependencies": {
     "apollo-cache-inmemory": "^1.1.12",
